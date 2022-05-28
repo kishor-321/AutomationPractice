@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46587" started-at="2022-05-28T07:11:44 IST" finished-at="2022-05-28T07:12:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46587" started-at="2022-05-28T07:11:44 IST" finished-at="2022-05-28T07:12:30 IST">
+      <class name="FormFillPage.Operations">
+        <test-method status="PASS" signature="BrowserOperation()[pri:0, instance:FormFillPage.Operations@5ed828d]" name="BrowserOperation" is-config="true" duration-ms="7603" started-at="2022-05-28T07:11:44 IST" finished-at="2022-05-28T07:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOperation -->
+        <test-method status="PASS" signature="PickDropOperations()[pri:0, instance:FormFillPage.Operations@5ed828d]" name="PickDropOperations" duration-ms="38121" started-at="2022-05-28T07:11:51 IST" finished-at="2022-05-28T07:12:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PickDropOperations -->
+        <test-method status="PASS" signature="switchWindow()[pri:0, instance:FormFillPage.Operations@5ed828d]" name="switchWindow" duration-ms="782" started-at="2022-05-28T07:12:29 IST" finished-at="2022-05-28T07:12:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWindow -->
+      </class> <!-- FormFillPage.Operations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
